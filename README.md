@@ -1,7 +1,7 @@
 # Boston-Housing-Price-Predictor
 This is a humble, albeit end-to-end project that I made to increase my knowledge about training and deploying machine learning models. It is a Flask app that, given a set of input parameters describing a given neighborhood in Boston, returns the median house price, using the prediction of a linear regression model. The Boston dataset is available directly through scikit-learn, as well as from the UCI Machine Learning Repository.
 
-Once downloaded the app can be called from the command line. Simply navigate to the parent directory and type:
+Once downloaded the app can be called from the command line using a python environment with numpy and flask installed. Simply navigate to the parent directory and type:
 ```
 python script.py
 ```
